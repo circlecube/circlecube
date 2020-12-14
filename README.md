@@ -1,6 +1,6 @@
 ### Hi there 👋 👨‍💻
 
-Hi, I make things. I’m a <a href="https://profiles.wordpress.org/circlecube/" target="_blank">core contributor</a> to WordPress, <a  href="https://circlecube.com/does-wordpress/" target="_blank">speaker</a> at WordCamps, and currently a Senior Front End Engineer at <a href="https://10up.com/about/#employee-evan-mullins" target="_blank">10up</a>.
+Hi, I make things. I’m a <a href="https://profiles.wordpress.org/circlecube/" target="_blank">core contributor</a> to WordPress, <a  href="https://circlecube.com/does-wordpress/" target="_blank">speaker</a> at WordCamps, and currently a WordPress Developer at <a href="https://www.bluehost.com/wordpress" target="_blank">Bluehost</a>.
 
 While I have a design background, I’ve found a stronger creative outlet writing code. I’m also digital nomad with wanderlust for life, so lately have been travelling with my wife and 4 growing kids! 🧔 + 🧑‍🦰 = 👦 👦 👦 👧
 
