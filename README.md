@@ -1,10 +1,11 @@
 ### Hi there 👋 👨‍💻
 
-Hi, I make things. I’m a <a href="https://profiles.wordpress.org/circlecube/" target="_blank">core contributor</a> to WordPress, <a  href="https://circlecube.com/does-wordpress/" target="_blank">speaker</a> at WordCamps, and currently a WordPress Developer at <a href="https://www.bluehost.com/wordpress" target="_blank">Bluehost</a>.
+Hi, I make things. I’m a <a href="https://profiles.wordpress.org/circlecube/" target="_blank">core contributor</a> to WordPress, <a  href="https://evanmullins.com/speaking/" target="_blank">speaker</a> at WordCamps, and currently a WordPress Developer at <a href="https://www.bluehost.com/wordpress" target="_blank">Bluehost</a>.
 
-While I have a design background, I’ve found a stronger creative outlet writing code. I’m also digital nomad with wanderlust for life, so lately have been travelling with my wife and 4 growing kids! 🧔 + 🧑‍🦰 = 👦 👦 👦 👧
+While I have a design background 🎨, I’ve found a stronger creative outlet writing `code` 💻. I’m also <a href="https://evanmullins.com/nomading/">digital nomad</a> with wanderlust for life, so lately have been travelling with my wife and 4 growing kids! 🧔 + 🧑‍🦰 = 👦 👦 👦 👧
 
 ### I can be found at:
+- <a href="https://evanmullins.com">evanmullins.com</a> my personal site
 - <a href="https://circlecube.com">circlecube.com</a> my code related blog and portfolio site
 - <a href="https://nomaderwhere.com">nomaderwhere.com</a> my nomad travelling family site
 - <a href="https://github.com/circlecube">github</a> where I code
@@ -19,6 +20,9 @@ While I have a design background, I’ve found a stronger creative outlet writin
 - <a href="https://play.google.com/store/apps/developer?id=Evan+Mullins">google play app store</a> apps on android too
 - <a href="https://www.amazon.com/s?rh=n%3A2350149011%2Cp_4%3AEvan+Mullins&amp;_encoding=UTF8&amp;ref=bl_sr_mobile-apps">amazon app store</a> and apps for amazon too
 - also, if you’re into that sort of thing, here’s my <a href="https://evanmullins.com/resume/">resume</a>
+
+
+Pronouns: he/him/his
 
 <!--
 **circlecube/circlecube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
