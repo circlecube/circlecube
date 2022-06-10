@@ -2,7 +2,7 @@
 
 Hi, I make things. I’m a <a href="https://profiles.wordpress.org/circlecube/" target="_blank">core contributor</a> to WordPress, <a  href="https://evanmullins.com/speaking/" target="_blank">speaker</a> at WordCamps, and currently a WordPress Developer at <a href="https://www.bluehost.com/wordpress" target="_blank">Bluehost</a>.
 
-While I have a design background 🎨, I’ve found a stronger creative outlet writing `code` 💻. I’m also <a href="https://evanmullins.com/nomading/">digital nomad</a> with wanderlust for life, so lately have been travelling with my wife and 4 growing kids! 🧔 + 🧑‍🦰 = 👦 👦 👦 👧
+While I have a design background 🎨, I’ve found a stronger creative outlet writing `code` 💻. I’m also <a href="https://evanmullins.com/nomading/">digital nomad</a> at heart and have been travelling with my wife and 4 growing kids! 🧔 + 🧑‍🦰 = 👦 👦 👦 👧
 
 ### I can be found at:
 - <a href="https://evanmullins.com">evanmullins.com</a> my personal site
